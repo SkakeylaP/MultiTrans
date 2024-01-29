@@ -1,1 +1,1 @@
-App using a translation API <abandoned>
+App using a translation API (abandoned)
